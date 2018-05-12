@@ -17,6 +17,8 @@ creator:
     - http://es.wikipedia.org/wiki/Juan_Valera
     - http://en.wikipedia.org/wiki/Juan_Valera_y_Alcala_Galiano
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30236#Pepita-Ximenez
 gutenberg_issued: '2009-10-12'
 gutenberg_type: Text
 identifiers:
