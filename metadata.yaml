@@ -1,0 +1,32 @@
+_repo: Pepita-Ximenez_30236
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Valera, Juan
+    aliases:
+    - Galiano, Juan Valera y Alcalá
+    - Galiano, Juan Valera y Alcala
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '4923'
+    url: http://www.gutenberg.org/2009/agents/4923
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Juan_Valera
+    - http://en.wikipedia.org/wiki/Juan_Valera_y_Alcala_Galiano
+description: ''
+gutenberg_issued: '2009-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Pepita Ximenez
+url: http://www.gutenberg.org/ebooks/30236
